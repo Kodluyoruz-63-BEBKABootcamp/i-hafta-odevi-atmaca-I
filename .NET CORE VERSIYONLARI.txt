@@ -13,9 +13,9 @@ The next release after .NET Core 3.1 will be .NET 5. The .NET Framework will not
 •	Performans iyileştirici çalışmalar yapıldı.
 
 #NET CORE 2.0
-*C# ve F # ' ı desteklemeye ek olarak, .NET Core 2,0 de Visual Basic destekler.
-*MacOS üzerinde .NET Core 1. x, OpenSSL araç setinin şifreleme kitaplığını gerektirdi. .NET Core 2,0, Apple şifreleme kitaplıklarını kullanır ve OpenSSL gerektirmez, bu nedenle *artık yüklemeniz gerekmez.
-*Kodunuzu her değiştirdiğinizde Live Unit Testing otomatik olarak etkilenen birim testlerini arka planda çalıştırır ve Visual Studio ortamında sonuçları ve kod kapsamını canlı *olarak görüntüler. .NET Core 2,0 artık Live Unit Testing desteklemektedir. Daha önce Live Unit Testing yalnızca .NET Framework uygulamalar için kullanılabilir.
+C# ve F # ' ı desteklemeye ek olarak, .NET Core 2,0 de Visual Basic destekler.
+MacOS üzerinde .NET Core 1. x, OpenSSL araç setinin şifreleme kitaplığını gerektirdi. .NET Core 2,0, Apple şifreleme kitaplıklarını kullanır ve OpenSSL gerektirmez, bu nedenle artık yüklemeniz gerekmez.
+Kodunuzu her değiştirdiğinizde Live Unit Testing otomatik olarak etkilenen birim testlerini arka planda çalıştırır ve Visual Studio ortamında sonuçları ve kod kapsamını canlı olarak görüntüler. .NET Core 2,0 artık Live Unit Testing desteklemektedir. Daha önce Live Unit Testing yalnızca .NET Framework uygulamalar için kullanılabilir.
 
 #NET CORE 2.1
 .NET Core 2,1, genel araçları destekler-diğer bir deyişle, komut satırından küresel olarak kullanılabilir özel araçlar. .NET Core 'un önceki sürümlerindeki genişletilebilirlik modeli, yalnızca kullanarak bir proje temelinde bulunan özel araçları kullanıma sunulmuştur DotnetCliToolReference .
