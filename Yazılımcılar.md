@@ -1,3 +1,0 @@
-#Murat Yücedağ,
--Atıl Samancıoğlu,
--Sadi Evren Şeker
