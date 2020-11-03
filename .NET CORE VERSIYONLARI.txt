@@ -5,12 +5,12 @@
 The next release after .NET Core 3.1 will be .NET 5. The .NET Framework will not receive any further major versions, and .NET 5 will be the only .NET meant for new applications going forward – hence the removal of the "Core" branding and skipping of version 4 to avoid confusion with the .NET Framework 4.x.[16] The first preview of .NET 5 was released on March 16, 2020.[17]
 
 #.NET CORE 1.1
-•	.NET Core’un performansı iyileştirildi,
-•	ASP.NET Core’un Kestrel’i iyileştirildi ve Azure desteği getirildi,
-•	Entity Framework Core’a Azure ve SQL 2016 desteği getirildi
-•	10larca yeni özellik ve 100 lerce bug fix yapıldı.
-•	Belgelendirme(documentation) iyileştirmesi yapıldı.
-•	Performans iyileştirici çalışmalar yapıldı.
+	.NET Core’un performansı iyileştirildi,
+	ASP.NET Core’un Kestrel’i iyileştirildi ve Azure desteği getirildi,
+	Entity Framework Core’a Azure ve SQL 2016 desteği getirildi
+	10larca yeni özellik ve 100 lerce bug fix yapıldı.
+	Belgelendirme(documentation) iyileştirmesi yapıldı.
+	Performans iyileştirici çalışmalar yapıldı.
 
 #NET CORE 2.0
 C# ve F # ' ı desteklemeye ek olarak, .NET Core 2,0 de Visual Basic destekler.
