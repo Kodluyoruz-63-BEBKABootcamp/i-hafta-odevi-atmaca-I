@@ -1,7 +1,9 @@
 #AZURE HİZMETLERİ
 
---Ağ İletişimi
---Analiz
+Ağ İletişimi
+
+Analiz
+
 Bilgi İşlem
 Blok zinciri
 Depolama
